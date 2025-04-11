@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphone",
+    "price": 120,
+    "category": "Electronics",
+    "rating": 4.5,
+    "stock": 25,
+    "description": "উচ্চমানের ওয়্যারলেস হেডফোন যা নয়েজ ক্যান্সেলেশন ফিচারসহ।",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headset/onikuma/b100/b100-02-228x228.webp"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 80,
+    "category": "Electronics",
+    "rating": 4.2,
+    "stock": 50,
+    "description": "স্টাইলিশ স্মার্টওয়াচ যা স্বাস্থ্য ট্র্যাকিং ফিচারসহ।",
+    "image": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw56c2fc35/images/Fastrack/Catalog/38158NM01_1.jpg?sw=360&sh=360"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 60,
+    "category": "Fashion",
+    "rating": 4.0,
+    "stock": 70,
+    "description": "দৈনন্দিন ব্যবহারের জন্য আরামদায়ক এবং টেকসই রানিং জুতা।",
+    "image": "https://www.trailrunmag.com/wp-content/uploads/2024/11/VL-HEADER-SLIDER-1-262.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 40,
+    "category": "Electronics",
+    "rating": 4.3,
+    "stock": 35,
+    "description": "পোর্টেবল ব্লুটুথ স্পিকার যা গভীর বেস সাউন্ড প্রদান করে।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzm330_QXVLpQJnT6jKW3ixSYYI9Vka9t6Q&s"
+  },
+  {
+    "id": 5,
+    "name": "Backpack",
+    "price": 25,
+    "category": "Fashion",
+    "rating": 4.1,
+    "stock": 80,
+    "description": "একাধিক কম্পার্টমেন্টসহ স্টাইলিশ ব্যাকপ্যাক।",
+    "image": "https://www.startech.com.bd/image/cache/catalog/camera-accessories/camera-backpack/k-and-f-concept/kf13107/kf13107-01-500x500.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 30,
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 40,
+    "description": "হাই-প্রিসিশন গেমিং মাউস যা প্রোগ্রামেবল বোতামসহ।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbmH3P5u7AZuaTw_X5nPh505npwu_ZSxohA&s"
+  },
+  {
+    "id": 7,
+    "name": "Leather Wallet",
+    "price": 20,
+    "category": "Fashion",
+    "rating": 4.0,
+    "stock": 60,
+    "description": "প্রিমিয়াম কোয়ালিটির লেদার ওয়ালেট।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0tocljY2jyFE0SxE92bpfevrXPHlIakX0Q&s"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 15,
+    "category": "Fashion",
+    "rating": 4.2,
+    "stock": 75,
+    "description": "UV প্রোটেকশনসহ স্টাইলিশ সানগ্লাস।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnzbuTbiCtHyP_EVUiRcT8IWh7QbOAAsdaA&s"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand",
+    "price": 35,
+    "category": "Electronics",
+    "rating": 4.3,
+    "stock": 30,
+    "description": "এর্গোনমিক ডিজাইনের ল্যাপটপ স্ট্যান্ড।",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/f46415103516a0fc9dc8b93de452e6e2.jpg_720x720q80.jpg"
+  },
+  {
+    "id": 10,
+    "name": "T-Shirt",
+    "price": 10,
+    "category": "Fashion",
+    "rating": 4.1,
+    "stock": 90,
+    "description": "সুতির আরামদায়ক টি-শার্ট।",
+    "image": "https://amr.com.bd/public/uploads/all/kLurTn4UFFKjQcANCQGbu2ieoObrudjew4wiNhrq.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Power Bank",
+    "price": 50,
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 55,
+    "description": "উচ্চ ক্ষমতাসম্পন্ন পাওয়ার ব্যাংক যা দ্রুত চার্জিং সমর্থন করে।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAcim9ksqisOYVJ3dPUxVUuuYwYx4eO-prpw&s"
+  },
+  {
+    "id": 12,
+    "name": "Formal Shoes",
+    "price": 70,
+    "category": "Fashion",
+    "rating": 4.0,
+    "stock": 65,
+    "description": "চামড়ার ফর্মাল জুতা যা অফিস ব্যবহারের জন্য উপযোগী।",
+    "image": "https://toffpark.com/wp-content/uploads/2023/03/Genuine-Leather-Pointed-Toe-Formal-Shoe-Shinny-Black.jpg"
+  },
+  {
+    "id": 13,
+    "name": "LED Monitor",
+    "price": 150,
+    "category": "Electronics",
+    "rating": 4.6,
+    "stock": 20,
+    "description": "ফুল এইচডি রেজোলিউশনসহ এলইডি মনিটর।",
+    "image": "https://cdn.waltonplaza.com.bd/87da39a0-ca46-497c-bb82-aeb237924b08.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Winter Jacket",
+    "price": 100,
+    "category": "Fashion",
+    "rating": 4.3,
+    "stock": 45,
+    "description": "শীতের জন্য উষ্ণ এবং আরামদায়ক জ্যাকেট।",
+    "image": "https://cohesivebd.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-16-at-18.31.44_3fefc45d.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Water Bottle",
+    "price": 12,
+    "category": "Accessories",
+    "rating": 4.0,
+    "stock": 100,
+    "description": "বিপিএ ফ্রি প্লাস্টিকের পানির বোতল।",
+    "image": "https://m.media-amazon.com/images/I/71HOfeG+rdL.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Fitness Tracker",
+    "price": 55,
+    "category": "Electronics",
+    "rating": 4.2,
+    "stock": 60,
+    "description": "স্বাস্থ্য পর্যবেক্ষণের জন্য স্মার্ট ফিটনেস ট্র্যাকার।",
+    "image": "https://media.gq.com/photos/678040b60888363d01ca28a9/16:9/w_2560%2Cc_limit/fitnesstrackerlere.png"
+  },
+  {
+    "id": 17,
+    "name": "Portable Fan",
+    "price": 18,
+    "category": "Electronics",
+    "rating": 4.1,
+    "stock": 85,
+    "description": "গরমের দিনে ব্যবহারযোগ্য পোর্টেবল ফ্যান।",
+    "image": "https://lzd-social-img.oss-ap-southeast-1.aliyuncs.com/73b5c75a0aea4a3aa6782e8b6de87679_2bdaac77d5a44f7cb7ea826e5d3fda09.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Wireless Keyboard",
+    "price": 45,
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 50,
+    "description": "ওয়্যারলেস কিবোর্ড মসৃণ টাইপিং এক্সপেরিয়েন্সের জন্য।",
+    "image": "https://i.pcmag.com/imagery/roundups/007y4PjTbtgMMDz5SnUq9Em-3..v1586534960.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Coffee Mug",
+    "price": 8,
+    "category": "Accessories",
+    "rating": 4.3,
+    "stock": 120,
+    "description": "স্টাইলিশ ডিজাইনের কফি মাগ।",
+    "image": "https://cdnimg.webstaurantstore.com/images/products/large/41980/2738593.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Desk Lamp",
+    "price": 28,
+    "category": "Home Decor",
+    "rating": 4.5,
+    "stock": 40,
+    "description": "রিডিং এবং কাজের জন্য পারফেক্ট ডেস্ক ল্যাম্প।",
+    "image": "https://video-play.daraz.com.bd/cover/4442476.jpg"
+  }
+]
