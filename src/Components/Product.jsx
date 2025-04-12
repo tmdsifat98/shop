@@ -1,10 +1,10 @@
 import React from "react";
 import { IoIosStar } from "react-icons/io";
 
-const Product = ({ product, handleCart }) => {
+const Product = ({ product, handleCart,priceUpdate }) => {
   return (
     <div>
-      <div className="card bg-base-100 w-96 h-[440px] shadow-sm">
+      <div className="card bg-base-100  h-[440px] shadow-sm">
         <img
           src={product.image}
           alt={product.name}
@@ -24,7 +24,7 @@ const Product = ({ product, handleCart }) => {
           </p>
           <div className="card-actions justify-between">
             <button
-              onClick={() => handleCart(product)}
+              onClick={() =>{ handleCart(product); priceUpdate(product.price)}}
               className="btn btn-outline btn-secondary"
             >
               Add to cart

@@ -1,16 +1,14 @@
-import React, { useState } from "react";
+import React from "react";
 import { IoMdCart } from "react-icons/io";
-
-const Navbar = ({ carts , price}) => {
-  const showCart=()=>{
-    window.location.href	= "./CartItem.jsx"
-  };
+import ThemeSwitcher from './ThemeSwitcher';
+const Navbar = ({ carts, price }) => {
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm">
         <div className="flex-1">
           <a className="btn btn-ghost text-xl">SifatShop</a>
         </div>
+        <div className="mr-6"><ThemeSwitcher></ThemeSwitcher></div>
         <div className="flex-none">
           <div className="dropdown dropdown-end">
             <div
@@ -37,7 +35,9 @@ const Navbar = ({ carts , price}) => {
                 </span>
                 <span className="text-info">Subtotal: ${price}</span>
                 <div className="card-actions">
-                  <button onClick={showCart} className="btn btn-primary btn-block">
+                  <button
+                    className="btn btn-primary btn-block"
+                  >
                     View cart
                   </button>
                 </div>
